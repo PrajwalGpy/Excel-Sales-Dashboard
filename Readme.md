@@ -173,14 +173,14 @@ The ratio of profit to revenue, indicating business efficiency.
 
 ---
 
-## Contact
+##  Contact
 
 For any queries or feedback, feel free to reach out:
 
-**Prajwal Gopal Poojary**
-Email: `prajwalgpa@gmail.com`
-Portfolio: [https://prajwalgopalpoojary.netlify.app](https://prajwalgopalpoojary.netlify.app)
-LinkedIn: [https://linkedin.com/in/prajwalgopalpoojary/](https://linkedin.com/in/prajwalgopalpoojary/)
+**Prajwal Gopal Poojary**  
+ Email: `prajwalgpa@gmail.com`  
+ Portfolio: <https://prajwalgopalpoojary.netlify.app>  
+ LinkedIn: <https://linkedin.com/in/prajwalgopalpoojary/>
 
 ---
 
@@ -189,4 +189,5 @@ LinkedIn: [https://linkedin.com/in/prajwalgopalpoojary/](https://linkedin.com/in
 Special thanks to **Data with Decision** for the tutorial series.
 
 ---
+
 
