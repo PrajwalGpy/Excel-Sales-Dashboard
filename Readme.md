@@ -165,11 +165,11 @@ The ratio of profit to revenue, indicating business efficiency.
 
 - **File Name**: `Excel_Sales_Customer_Dashboard.xlsm`
   **Description**: The complete multi-dashboard Excel file.
-  [Download File Here](https://www.google.com/search?q=https://github.com/PrajwalGpy/Project-Excel-Sales-Analysis/blob/main/Excel_Sales_Customer_Dashboard.xlsm)
+  [Download File Here](https://github.com/PrajwalGpy/Excel-Sales-Dashboard/blob/main/Sales%20Performance%20Dataset_macro.xlsm)
 
 - **File Name**: `Sales_Data.xlsx`
   **Description**: Raw dataset used for the project.
-  [Download File Here](https://www.google.com/search?q=https://github.com/PrajwalGpy/Project-Excel-Sales-Analysis/blob/main/Sales_Data.xlsx)
+  [Download File Here](https://github.com/PrajwalGpy/Excel-Sales-Dashboard/blob/main/SalesPractice%20Dataset.xlsx)
 
 ---
 
@@ -179,7 +179,7 @@ For any queries or feedback, feel free to reach out:
 
 **Prajwal Gopal Poojary**  
  Email: `prajwalgpa@gmail.com`  
- Portfolio: <https://prajwalgopalpoojary.netlify.app>  
+ Portfolio: <https://prajwalgo](https://prajwalgp.me/>  
  LinkedIn: <https://linkedin.com/in/prajwalgopalpoojary/>
 
 ---
@@ -189,5 +189,6 @@ For any queries or feedback, feel free to reach out:
 Special thanks to **Data with Decision** for the tutorial series.
 
 ---
+
 
 
