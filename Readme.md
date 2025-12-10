@@ -24,10 +24,10 @@ The goal is to provide a complete view of the business, from revenue trends to c
 
 ---
 
-_(Dashboard 1: Sales Performance)_
+_(Dashboard 1: Customer & Profitability)_
 ![Dashboard Demo](https://github.com/PrajwalGpy/Excel-Sales-Dashboard/blob/main/assets/Screenshot%202025-12-10%20114646.png)
 
-_(Dashboard 2: Customer & Profitability)_
+_(Dashboard 2: Sales Performance)_
 ![Dashboard Demo](https://github.com/PrajwalGpy/Excel-Sales-Dashboard/blob/main/assets/Screenshot%202025-12-10%20114823.png)
 
 ---
@@ -60,8 +60,8 @@ _(Dashboard 2: Customer & Profitability)_
 
 To conduct a **comprehensive analysis of sales data** split into two key areas:
 
-- **Dashboard 1 (Sales Focus)**: Monitor overall revenue, trends, and top-performing products.
 - **Dashboard 2 (Customer Focus)**: Understand who the customers are (Age, Gender) and which segments are most profitable.
+- **Dashboard 1 (Sales Focus)**: Monitor overall revenue, trends, and top-performing products.
 
 ---
 
@@ -189,3 +189,4 @@ LinkedIn: [https://linkedin.com/in/prajwalgopalpoojary/](https://linkedin.com/in
 Special thanks to **Data with Decision** for the tutorial series.
 
 ---
+
