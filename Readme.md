@@ -180,7 +180,7 @@ For any queries or feedback, feel free to reach out:
 
 **Prajwal Gopal Poojary**  
  Email: `prajwalgpa@gmail.com`  
- Portfolio: <https://prajwalgo](https://prajwalgp.me/>  
+ Portfolio: <https://prajwalgp.me/>  
  LinkedIn: <https://linkedin.com/in/prajwalgopalpoojary/>
 
 ---
@@ -190,6 +190,7 @@ For any queries or feedback, feel free to reach out:
 Special thanks to **Data with Decision** for the tutorial series.
 
 ---
+
 
 
 
