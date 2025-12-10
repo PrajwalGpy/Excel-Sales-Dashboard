@@ -87,81 +87,47 @@ The ratio of profit to revenue, indicating business efficiency.
 
 ### Dashboard 1: Customer & Profitability
 
-**1. Monthly Sales Trend (Line Chart)**
+<ol>
 
-- **Objective:** Visualize revenue and profit trends over time (Jan-Dec).
-- **Insight:** Identifies seasonal peaks and slow months.
-- **Chart Type:** Line Chart with Markers.
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-      <img src="https://github.com/PrajwalGpy/Excel-Sales-Dashboard/blob/main/assets/Screenshot%202025-12-10%20114942.png" alt="YTD Sales by Month" width="250" height="200" />
-  </div>
+<h3><li> Revenue by Age Group (Column Chart):</li></h3> <ul> <li><b><ins>Objective:</ins></b> Segment sales based on customer age brackets (e.g., Youth, Adult, Senior).</li> <li><b>Insight:</b> Determines the target audience age range for marketing campaigns.</li> <li><b>Chart Type:</b> Column Chart.</li>
 
-**2. Top 5 Products by Revenue (Bar Chart)**
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px;"> <img src="https://github.com/PrajwalGpy/Excel-Sales-Dashboard/blob/main/assets/Screenshot%202025-12-10%20115033.png" alt="Revenue by Age Group" width="250" height="200" /> </div> </ul>
 
-- **Objective:** Highlight the best-selling products.
-- **Insight:** Helps in inventory planning for high-demand items.
-- **Chart Type:** Clustered Bar Chart.
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-      <img src="https://github.com/PrajwalGpy/Project-PowerBI-AmazonSales-ReviewsAnalysis/blob/main/images/Screenshot%202025-11-16%20115254.png" alt="YTD Sales by Month" width="250" height="200" />
-  </div>
+<h3><li> Profit by Gender (Donut Chart):</li></h3> <ul> <li><b><ins>Objective:</ins></b> Analyze the contribution of Male vs. Female customers to the bottom line.</li> <li><b>Insight:</b> Helps tailor gender-specific product messaging.</li> <li><b>Chart Type:</b> Donut Chart.</li>
 
-**3. Sales by Region (Map/Column Chart)**
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px;"> <img src="https://github.com/PrajwalGpy/Excel-Sales-Dashboard/blob/main/assets/Screenshot%202025-12-10%20115113.png" alt="Profit by Gender" width="250" height="200" /> </div> </ul>
 
-- **Objective:** Show sales distribution across different geographical locations.
-- **Insight:** Pinpoints high-performing regions vs. those needing marketing support.
-- **Chart Type:** Map or Column Chart.
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-      <img src="https://github.com/PrajwalGpy/Excel-Sales-Dashboard/blob/main/assets/Screenshot%202025-12-10%20115055.png" alt="YTD Sales by Month" width="250" height="200" />
-  </div>
+<h3><li> Revenue by Payment Method (Bar Chart):</li></h3> <ul> <li><b><ins>Objective:</ins></b> Track preference for Credit Card, Cash, or Online Payment.</li> <li><b>Insight:</b> Optimization of payment gateways and understanding customer liquidity.</li> <li><b>Chart Type:</b> Bar Chart.</li>
 
-**4. Sales by Manager (Bar Chart)**
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px;"> <img src="https://github.com/PrajwalGpy/Excel-Sales-Dashboard/blob/main/assets/Screenshot%202025-12-10%20115104.png" alt="Revenue by Payment Method" width="250" height="200" /> </div> </ul>
 
-- **Objective:** Compare performance across different sales representatives.
-- **Insight:** Useful for performance appraisals and incentive planning.
-- **Chart Type:** Bar Chart.
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-      <img src="https://github.com/PrajwalGpy/Project-PowerBI-AmazonSales-ReviewsAnalysis/blob/main/images/Screenshot%202025-11-16%20115254.png" alt="YTD Sales by Month" width="250" height="200" />
-  </div>
+<h3><li> Sales by Region (Map/Column Chart):</li></h3> <ul> <li><b><ins>Objective:</ins></b> Show sales distribution across different geographical locations.</li> <li><b>Insight:</b> Pinpoints high-performing regions vs. those needing marketing support.</li> <li><b>Chart Type:</b> Map or Column Chart.</li>
 
----
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px;"> <img src="https://github.com/PrajwalGpy/Excel-Sales-Dashboard/blob/main/assets/Screenshot%202025-12-10%20115055.png" alt="Sales by Region" width="250" height="200" /> </div> </ul>
+
+## </ol>
 
 ### Dashboard 2: Sales Performance
 
-**1. Revenue by Age Group (Column Chart)**
+<ol>
 
-- **Objective:** Segment sales based on customer age brackets (e.g., Youth, Adult, Senior).
-- **Insight:** Determines the target audience age range for marketing campaigns.
-- **Chart Type:** Column Chart.
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-      <img src="https://github.com/PrajwalGpy/Excel-Sales-Dashboard/blob/main/assets/Screenshot%202025-12-10%20115033.png" width="250" height="200" />
-  </div>
+<h3><li> Revenue Trend by Quarter (Column Chart):</li></h3> <ul> <li><b><ins>Objective:</ins></b> Visualize the distribution of revenue across the four quarters of the year.</li> <li><b>Insight:</b> Q2 is the strongest performing quarter (35.0%), indicating a mid-year peak, while Q4 shows a significant drop (10.3%).</li> <li><b>Chart Type:</b> Column Chart.</li>
 
-**2. Profit by Gender (Donut Chart)**
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px;"> <img src="https://github.com/PrajwalGpy/Excel-Sales-Dashboard/blob/main/assets/Screenshot%202025-12-10%20114950.png" alt="Revenue Trend by Quarter" width="250" height="200" /> </div> </ul>
 
-- **Objective:** Analyze the contribution of Male vs. Female customers to the bottom line.
-- **Insight:** Helps tailor gender-specific product messaging.
-- **Chart Type:** Donut Chart.
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-      <img src="https://github.com/PrajwalGpy/Excel-Sales-Dashboard/blob/main/assets/Screenshot%202025-12-10%20115113.png" alt="YTD Sales by Month" width="250" height="200" />
-  </div>
+<h3><li> Monthly Revenue Fluctuation (Line Chart):</li></h3> <ul> <li><b><ins>Objective:</ins></b> Track the revenue trajectory over the entire year to identify seasonality and sharp declines.</li> <li><b>Insight:</b> Jan, Mar, and Jul are top-performing months, but there is a drastic drop in revenue starting in August, continuing through December.</li> <li><b>Chart Type:</b> Line Chart with Data Markers.</li>
 
-**3. Revenue by Payment Method (Bar Chart)**
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px;"> <img src="https://github.com/PrajwalGpy/Excel-Sales-Dashboard/blob/main/assets/Screenshot%202025-12-10%20114942.png" width="250" height="200" /> </div> </ul>
 
-- **Objective:** Track preference for Credit Card, Cash, or Online Payment.
-- **Insight:** Optimization of payment gateways and understanding customer liquidity.
-- **Chart Type:** Bar Chart.
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-      <img src="https://github.com/PrajwalGpy/Excel-Sales-Dashboard/blob/main/assets/Screenshot%202025-12-10%20115104.png" alt="YTD Sales by Month" width="250" height="200" />
-  </div>
+<h3><li> Daily Sales Trends (Column Chart):</li></h3> <ul> <li><b><ins>Objective:</ins></b> Analyze sales performance by day of the week to understand daily customer purchasing habits.</li> <li><b>Insight:</b> Sales are relatively consistent throughout the week, with marginal peaks on Tuesdays and Thursdays.</li> <li><b>Chart Type:</b> Clustered Column Chart.</li>
 
-**4. Weekday vs. Weekend Sales (Pie/Donut Chart)**
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px;"> <img src="https://github.com/PrajwalGpy/Excel-Sales-Dashboard/blob/main/assets/Screenshot%202025-12-10%20115012.png" alt="Daily Sales Trends" width="250" height="200" /> </div> </ul>
 
-- **Objective:** Compare sales volume on weekdays versus weekends.
-- **Insight:** Informs staffing schedules and weekend promotional strategies.
-- **Chart Type:** Pie Chart.
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-      <img src="https://github.com/PrajwalGpy/Excel-Sales-Dashboard/blob/main/assets/Screenshot%202025-12-10%20115001.png" width="250" height="200" />
-  </div>
+<h3><li> Weekend vs. Weekday Distribution (Donut Charts):</li></h3> <ul> <li><b><ins>Objective:</ins></b> Compare the volume of business conducted during the work week versus the weekend.</li> <li><b>Insight:</b> The majority of sales (72.6%) occur during weekdays, suggesting B2B activity or weekday-specific shopping patterns.</li> <li><b>Chart Type:</b> Radial / Donut Chart.</li>
+
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px;"> <img src="https://github.com/PrajwalGpy/Excel-Sales-Dashboard/blob/main/assets/Screenshot%202025-12-10%20115001.png" width="250" height="200" /> </div> </ul>
+
+</ol>
 
 ---
 
