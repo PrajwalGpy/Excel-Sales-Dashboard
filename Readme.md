@@ -46,13 +46,14 @@ _(Dashboard 2: Sales Performance)_
 
 ## Steps in Project
 
-✔️ Data Collection: Importing raw sales and target data.
-✔️ Data Cleaning: Handling missing values and standardizing date formats.
-✔️ Data Modeling: Creating relationships between Transaction, Product, and Customer tables.
-✔️ Dashboard 1 Creation: Building the Sales Performance view.
-✔️ Dashboard 2 Creation: Building the Customer & Profitability view.
-✔️ Interactivity: Adding slicers, timelines, and navigation buttons.
-✔️ Formatting: Applying a consistent color theme and layout.
+✔️ Data Collection: Importing raw sales and target data. 
+✔️ Data Cleaning: Handling missing values and standardizing date formats. 
+✔️ Data Modeling: Creating relationships between Transaction, Product, and Customer tables. 
+✔️ Dashboard 1 Creation: Building the Sales Performance view. 
+✔️ Dashboard 2 Creation: Building the Customer & Profitability view. 
+✔️ Interactivity: Adding slicers, timelines, and navigation buttons. 
+✔️ Formatting: Applying a consistent color theme and layout. 
+
 
 ---
 
@@ -189,6 +190,7 @@ For any queries or feedback, feel free to reach out:
 Special thanks to **Data with Decision** for the tutorial series.
 
 ---
+
 
 
 
