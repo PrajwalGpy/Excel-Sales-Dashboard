@@ -46,13 +46,13 @@ _(Dashboard 2: Sales Performance)_
 
 ## Steps in Project
 
-✔️ **Data Collection**: Importing raw sales and target data.
-✔️ **Data Cleaning**: Handling missing values and standardizing date formats.
-✔️ **Data Modeling**: Creating relationships between Transaction, Product, and Customer tables.
-✔️ **Dashboard 1 Creation**: Building the Sales Performance view.
-✔️ **Dashboard 2 Creation**: Building the Customer & Profitability view.
-✔️ **Interactivity**: Adding slicers, timelines, and navigation buttons.
-✔️ **Formatting**: Applying a consistent color theme and layout.
+✔️ Data Collection: Importing raw sales and target data.
+✔️ Data Cleaning: Handling missing values and standardizing date formats.
+✔️ Data Modeling: Creating relationships between Transaction, Product, and Customer tables.
+✔️ Dashboard 1 Creation: Building the Sales Performance view.
+✔️ Dashboard 2 Creation: Building the Customer & Profitability view.
+✔️ Interactivity: Adding slicers, timelines, and navigation buttons.
+✔️ Formatting: Applying a consistent color theme and layout.
 
 ---
 
@@ -154,7 +154,7 @@ The ratio of profit to revenue, indicating business efficiency.
 
 ## 📂 How to Use
 
-1.  Download the file: **`Excel_Sales_Customer_Dashboard.xlsm`**.
+1.  Download the file: **`Sales Performance Dataset_macro.xlsm`**.
 2.  Open in **Microsoft Excel** (Enable Macros).
 3.  Use the **Navigation Buttons** at the top to switch between "Sales Dashboard" and "Customer Dashboard".
 4.  Use Slicers on the left to filter both dashboards simultaneously.
@@ -163,11 +163,11 @@ The ratio of profit to revenue, indicating business efficiency.
 
 ## File Details
 
-- **File Name**: `Excel_Sales_Customer_Dashboard.xlsm`
+- **File Name**: `Sales Performance Dataset_macro.xlsm`
   **Description**: The complete multi-dashboard Excel file.
   [Download File Here](https://github.com/PrajwalGpy/Excel-Sales-Dashboard/blob/main/Sales%20Performance%20Dataset_macro.xlsm)
 
-- **File Name**: `Sales_Data.xlsx`
+- **File Name**: `SalesPractice Dataset.xlsx`
   **Description**: Raw dataset used for the project.
   [Download File Here](https://github.com/PrajwalGpy/Excel-Sales-Dashboard/blob/main/SalesPractice%20Dataset.xlsx)
 
@@ -189,6 +189,7 @@ For any queries or feedback, feel free to reach out:
 Special thanks to **Data with Decision** for the tutorial series.
 
 ---
+
 
 
 
