@@ -85,7 +85,7 @@ The ratio of profit to revenue, indicating business efficiency.
 
 ## Chart’s Requirements
 
-### Dashboard 1: Sales Performance
+### Dashboard 1: Customer & Profitability
 
 **1. Monthly Sales Trend (Line Chart)**
 
@@ -93,7 +93,7 @@ The ratio of profit to revenue, indicating business efficiency.
 - **Insight:** Identifies seasonal peaks and slow months.
 - **Chart Type:** Line Chart with Markers.
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-      <img src="https://github.com/PrajwalGpy/Project-PowerBI-AmazonSales-ReviewsAnalysis/blob/main/images/Screenshot%202025-11-16%20115254.png" alt="YTD Sales by Month" width="250" height="200" />
+      <img src="https://github.com/PrajwalGpy/Excel-Sales-Dashboard/blob/main/assets/Screenshot%202025-12-10%20114942.png" alt="YTD Sales by Month" width="250" height="200" />
   </div>
 
 **2. Top 5 Products by Revenue (Bar Chart)**
@@ -111,7 +111,7 @@ The ratio of profit to revenue, indicating business efficiency.
 - **Insight:** Pinpoints high-performing regions vs. those needing marketing support.
 - **Chart Type:** Map or Column Chart.
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-      <img src="https://github.com/PrajwalGpy/Project-PowerBI-AmazonSales-ReviewsAnalysis/blob/main/images/Screenshot%202025-11-16%20115254.png" alt="YTD Sales by Month" width="250" height="200" />
+      <img src="https://github.com/PrajwalGpy/Excel-Sales-Dashboard/blob/main/assets/Screenshot%202025-12-10%20115055.png" alt="YTD Sales by Month" width="250" height="200" />
   </div>
 
 **4. Sales by Manager (Bar Chart)**
@@ -125,7 +125,7 @@ The ratio of profit to revenue, indicating business efficiency.
 
 ---
 
-### Dashboard 2: Customer & Profitability
+### Dashboard 2: Sales Performance
 
 **1. Revenue by Age Group (Column Chart)**
 
@@ -133,7 +133,7 @@ The ratio of profit to revenue, indicating business efficiency.
 - **Insight:** Determines the target audience age range for marketing campaigns.
 - **Chart Type:** Column Chart.
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-      <img src="https://github.com/PrajwalGpy/Project-PowerBI-AmazonSales-ReviewsAnalysis/blob/main/images/Screenshot%202025-11-16%20115254.png" alt="YTD Sales by Month" width="250" height="200" />
+      <img src="https://github.com/PrajwalGpy/Excel-Sales-Dashboard/blob/main/assets/Screenshot%202025-12-10%20115033.png" width="250" height="200" />
   </div>
 
 **2. Profit by Gender (Donut Chart)**
@@ -142,7 +142,7 @@ The ratio of profit to revenue, indicating business efficiency.
 - **Insight:** Helps tailor gender-specific product messaging.
 - **Chart Type:** Donut Chart.
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-      <img src="https://github.com/PrajwalGpy/Project-PowerBI-AmazonSales-ReviewsAnalysis/blob/main/images/Screenshot%202025-11-16%20115254.png" alt="YTD Sales by Month" width="250" height="200" />
+      <img src="https://github.com/PrajwalGpy/Excel-Sales-Dashboard/blob/main/assets/Screenshot%202025-12-10%20115113.png" alt="YTD Sales by Month" width="250" height="200" />
   </div>
 
 **3. Revenue by Payment Method (Bar Chart)**
@@ -151,7 +151,7 @@ The ratio of profit to revenue, indicating business efficiency.
 - **Insight:** Optimization of payment gateways and understanding customer liquidity.
 - **Chart Type:** Bar Chart.
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-      <img src="https://github.com/PrajwalGpy/Project-PowerBI-AmazonSales-ReviewsAnalysis/blob/main/images/Screenshot%202025-11-16%20115254.png" alt="YTD Sales by Month" width="250" height="200" />
+      <img src="https://github.com/PrajwalGpy/Excel-Sales-Dashboard/blob/main/assets/Screenshot%202025-12-10%20115104.png" alt="YTD Sales by Month" width="250" height="200" />
   </div>
 
 **4. Weekday vs. Weekend Sales (Pie/Donut Chart)**
@@ -160,7 +160,7 @@ The ratio of profit to revenue, indicating business efficiency.
 - **Insight:** Informs staffing schedules and weekend promotional strategies.
 - **Chart Type:** Pie Chart.
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-      <img src="https://github.com/PrajwalGpy/Project-PowerBI-AmazonSales-ReviewsAnalysis/blob/main/images/Screenshot%202025-11-16%20115254.png" alt="YTD Sales by Month" width="250" height="200" />
+      <img src="https://github.com/PrajwalGpy/Excel-Sales-Dashboard/blob/main/assets/Screenshot%202025-12-10%20115001.png" width="250" height="200" />
   </div>
 
 ---
